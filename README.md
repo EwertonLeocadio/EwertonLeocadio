@@ -50,4 +50,6 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{EwertonLeocadio}/count.svg" /></p> 
 <br></div>
 
+![Snake animation](https://github.com/EwertonLeocaio/EwertonLeocadio/blob/output/github-contribution-grid-snake.svg)
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
